@@ -2,6 +2,7 @@
 title: "Spring Nitrous Oxide Emissions"
 author: "Ranae Dietzel"
 ratio: 16x10
+encoding: UTF-8
 output:
   rmdshower::shower_presentation:
     self_contained: false
