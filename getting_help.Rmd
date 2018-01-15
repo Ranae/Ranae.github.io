@@ -47,7 +47,6 @@ There are also interactive tutorials as well. Most are free for beginners, but m
 
 So far, I really like [DataCamp](https://campus.datacamp.com/courses/free-introduction-to-r/chapter-3-matrices-3?ex=3)  
 
-Your advisor has $300 laying around.  
 
 ##swirl  
 
