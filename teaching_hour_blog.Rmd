@@ -1,5 +1,5 @@
 ---
-title: "Teaching R doesn't have to be hard"
+title: "One Credit of R"
 author: "Ranae N. Dietzel"
 date: "May 5, 2018"
 ---
@@ -7,7 +7,7 @@ date: "May 5, 2018"
 
 This semester I taught a one-credit class using R for Data Science (R4DS) by Grolemund and Wickham and I loved it. Our class met for one hour every week and worked our way through the book in a very low-pressure environment. We only made it through half of the book, but everyone felt like they learned a lot. Because they did learn a lot!
 
-The structure of this class was two hours outside of class reading R4DS and one hour in the classroom working on the exercises. If you are interested in helping people learn R, I really recommend doing something similar! 
+The structure of this class was two hours outside of class reading R4DS and one hour in the classroom working on the exercises. If you are in academia and interested in helping people learn R, I really recommend doing something similar.  
 
 ## Goals for our class
 
@@ -33,11 +33,11 @@ I was cautious in designing the syllabus, but it was difficult to judge how far 
 
 The mentality that this course was the beautiful beginning of a long journey and not a race to learn as much R as possible before our time was up also extended to content on smaller scales. Sometimes none of us knew answers to R4DS exercises, especially later in the semester. We would give it our best shot, acknowledge that this was a particular problem we were not going to conquer on that day, and move to covering more exercises. Perhaps someday students will see the same problems again in their work, but perhaps they never will! Maybe they will encounter the answers to those exercises as they become better coders. Who knows, they're just getting started.    
 
-#### **4. Not using up coding time with talking.**
+#### **4. I did not using up coding time with talking.**
 
 I've said that we met for an hour per week, but really it was *only* 50 minutes. This space was meant to be a sanctuary for coding.  It was of the utmost importance that I did not waste any of this time talking. The students had (theoretically) already read about what was going on that day - there was very little I needed to add. Although I am not much of a talker, it was really hard to carry through with this. First, I was really excited about what they were doing! Like 18 people would be about to use dplyr for the first time and all I could say is, "This is going to change your life. Let's get started." I could have easily rattled on for 10 minutes (20% of class)! During class, I watched for raised hand and walked slowly around looking for problems. If some one was stuck, we would discuss the code.     
    
-#### **5. Very small time commitment from me.**
+#### **5. I required a very small time commitment from myself.**
 
 I don't have a teaching appointment. I am a postdoc who should be cranking out publications. I managed to teach this course and spend only one hour per week doing it, including an hour before the semester setting up the course (although I thought through it a lot during my commute). I was usually aware that I could have been doing a better job of teaching this course (I'll get to that), but I also realized that the more time I allowed myself to spend on the course, the less likely I was teach it again. I could take care of most of my tasks when students were working on the exercises in the classroom. Mostly I just needed to check if code was turned in, adjust the syllabus, and send out logistical emails. This was easy to do between popping up to scan screens and answer questions. In the beginning, I was able to fall back on some prepared materials I had and provide extra exercises for students who were getting ahead in ggplot2. 
 
@@ -57,7 +57,7 @@ This course never would have worked if there wasn't a [book](http://r4ds.had.co.
 
 ## Why did I teach this class?
 
-For years I have benefitted from the time and efforts of the R community. I have constantly used free tools, consumed tutorials and blog posts, thrown problems at #rstats on Twitter, and earned over 1,000 points on Stack Overflow purely from *asking* questions. I have accumulated a huge debt to the community, but most of my efforts to pay back this debt online have always failed. In the online world, there is always some one faster and better than me that can answer questions and write tutorials. So, I decided to take my contribution offline to an environment where R knowledge is a little more sparse. 
+For years I have benefitted from the time and efforts of the R community. I have constantly used free tools, consumed tutorials and blog posts, thrown problems at #rstats on Twitter, and earned over 1,000 points on Stack Overflow purely from *asking* questions. I have accumulated a huge debt to the community, but most of my efforts to pay back this debt online have always failed. In the online world, there is always some one faster and better than me that can answer questions and write tutorials. So, I decided to take my contribution offline to an environment where R knowledge is a little more sparse. Maybe you could do the same! 
 
 <center><a href="http://ranae.github.io/">Questions and Discussion</a></center>
 <center><a href="http://ranae.github.io/">Personal Website</a></center>
