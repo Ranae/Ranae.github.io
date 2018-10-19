@@ -12,7 +12,9 @@ output:
 
 ##R Markdown 
 
-<center><img src="images/welcome.jpg" width="800px"/></center>
+<center><img src="images/welcome.jpg" width="800px"/></center>  
+
+##ranae.github.io/general_rmarkdown  
 
 ## Why R Markdown?  
 * Need structured words to communicate your analyses and figures  
@@ -80,7 +82,11 @@ Let's make a Notebook.
 library(RCurl)
 
 agdata <-read.csv("https://github.com/Ranae/AGRON_R4DS/blob/master/week_01/iowa_crop_history.csv")
-```
+```  
+
+ 
+
+
 
 
 
